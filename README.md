@@ -1,4 +1,4 @@
-# Sudoku Game👾
+# 👾Sudoku Game👾
 
 ## About the game:
 This game is a classic Sudoku puzzle with three levels of difficulty:
@@ -7,6 +7,10 @@ This game is a classic Sudoku puzzle with three levels of difficulty:
 - hard mode
 
 Each level varies based on the number of mistakes you can make before the game ends. As you progress from Easy to Hard, the game reducing the number of mistakes allowed. Once you hit the mistake limit, it’s Game Over!
+
+## Feature:
+- ESC key:
+  You can stop the game by pressing the ESC key during the game, but unfortunately, you can't resume it! 😅😅
 
 
 ## Project demo:
@@ -34,6 +38,11 @@ Each level varies based on the number of mistakes you can make before the game e
 ✨The Game✨
 
 ![img](https://github.com/Niloufar-Md/Sudoku/blob/main/images/Screenshot%202025-04-04%20131044.png?raw=true)
+
+## about me:
+I'm Nilou, a Computer Engineering student at Shahid Beheshti University.🤝
+This project was for my BP course in the first semester, and it was my first experience developing a game.😁
+
 
 
 
