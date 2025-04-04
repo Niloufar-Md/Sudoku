@@ -11,7 +11,7 @@ This is a simple sudoku table game.
 
 | تصویر ۱ | تصویر ۲ |
 |---------|---------|
-| ![Image1]() | ![Image2](https://github.com/USERNAME/REPOSITORY/raw/main/images/image2.png) |
+| ![Image1](https://github.com/Niloufar-Md/Sudoku/blob/main/images/Screenshot%202025-04-04%20130817.png?raw=true) | ![Image2](https://github.com/Niloufar-Md/Sudoku/blob/main/images/Screenshot%202025-04-04%20130843.png?raw=true) |
 
 
 
