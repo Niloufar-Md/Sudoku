@@ -10,6 +10,7 @@ Each level varies based on the number of mistakes you can make before the game e
 
 ## Feature:
 - ESC key:
+  
   You can stop the game by pressing the ESC key during the game, but unfortunately, you can't resume it! 😅😅
 
 
