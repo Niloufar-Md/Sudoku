@@ -6,7 +6,7 @@ This game is a classic Sudoku puzzle with three levels of difficulty:
 - normal mode
 - hard mode
 
-Each level varies based on the number of mistakes you can make before the game ends. As you progress from Easy to Hard, the game becomes more challenging by reducing the number of mistakes allowed. Once you hit the mistake limit, it’s Game Over!
+Each level varies based on the number of mistakes you can make before the game ends. As you progress from Easy to Hard, the game reducing the number of mistakes allowed. Once you hit the mistake limit, it’s Game Over!
 
 
 ## Project demo:
