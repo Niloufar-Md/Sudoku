@@ -22,6 +22,10 @@ This is a simple sudoku table game.
 
 ![img](https://github.com/Niloufar-Md/Sudoku/blob/main/images/Screenshot%202025-04-04%20131001.png?raw=true)
 
+✨The Game✨
+
+![img](https://github.com/Niloufar-Md/Sudoku/blob/main/images/Screenshot%202025-04-04%20131044.png?raw=true)
+
 
 
 
