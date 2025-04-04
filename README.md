@@ -14,10 +14,12 @@ This is a simple sudoku table game.
 
 
 ✨Start Menu✨
+
 ![img](https://github.com/Niloufar-Md/Sudoku/blob/main/images/Screenshot%202025-04-04%20130941.png?raw=true)
 
 
 ✨Level Menu✨
+
 ![img](https://github.com/Niloufar-Md/Sudoku/blob/main/images/Screenshot%202025-04-04%20131001.png?raw=true)
 
 
